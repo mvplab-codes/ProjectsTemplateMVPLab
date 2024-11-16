@@ -19,7 +19,7 @@ some basic info about the project here
 #### Example
 
 ```bash
-./
+
 ├── backups
 ├── config
 │   ├── misc
