@@ -8,7 +8,7 @@ some basic info about the project here
 
 | Name           | Description                                                     |
 |----------------|-----------------------------------------------------------------|
-| `config`       | All config files                                                |
+| `configs`       | All config files                                                |
 | `codes`        | All codes and notebooks used                                    |
 | `reports`      | Report outputs (presentations, papers, etc.)                   |
 | `data`         | All source codes (core routines, data pre-processing)          |
@@ -21,7 +21,7 @@ some basic info about the project here
 ```bash
 
 ├── backups
-├── config
+├── configs
 │   ├── misc
 │   ├── packages
 │   ├── utilities
