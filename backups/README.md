@@ -1,4 +1,3 @@
 # Backups
 
-As the name suggests, this directory is a *temporary* backup.  
-It should not be used as a proper (conventional) backup directory.
+This directory serves as a *temporary* backup and is not intended to function as a standard or permanent backup location. Put your old and unused codes here.
