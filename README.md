@@ -16,10 +16,9 @@ some basic info about the project here
 
 ### Directory Structure
 
-#### Example Output 1
+#### Example
 
 ```bash
-tree -F -d -L 2 ./
 ./
 ├── backups
 ├── config
@@ -41,3 +40,4 @@ tree -F -d -L 2 ./
 ├── visualizations
 │   ├── papers
 │   └── presentations
+└────
