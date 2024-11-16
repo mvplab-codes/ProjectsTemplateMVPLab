@@ -1,18 +1,18 @@
-# Project Information
+# Project Name
 
-~some basic info about the project here~
+some basic info about the project here
 
-## Repository Skeleton
+## Repo Main Parts
 
-### Key Components
+### Key Folders
 
 | Name           | Description                                                     |
 |----------------|-----------------------------------------------------------------|
-| `cfg`          | Config files                                                   |
-| `explorations` | All exploratory analysis                                       |
-| `reports`      | Most textual outputs (papers, posters, etc.)                   |
-| `src`          | All source codes (core routines, data pre-processing)          |
-| `visualizations` | All codes that generate the figures of papers, posters, talks, etc. |
+| `config`       | All config files                                                |
+| `codes`        | All codes and notebooks used                                    |
+| `reports`      | Report outputs (presentations, papers, etc.)                   |
+| `data`         | All source codes (core routines, data pre-processing)          |
+| `visualizations` | All figs of papers |
 
 ### Directory Structure
 
@@ -21,43 +21,23 @@
 ```bash
 tree -F -d -L 2 ./
 ./
-├── bku
-├── cfg
-├── explorations
-│   ├── notebooks
-│   ├── soa
-│   └── unpublished
-├── ext
-├── localdata
-├── notes
-├── reports
-│   ├── AbstractsPosters
-│   ├── confs
+├── backups
+├── config
 │   ├── misc
+│   ├── packages
+│   ├── utilities
+├── codes
+│   ├── notebooks
+│   ├── scripts
+├── reports
+│   ├── methods
 │   ├── papers
 │   ├── presentations
 │   ├── proposals
-│   ├── sot
-│   └── sreps
-├── sandbox
-├── shared
-│   └── lnJrnlYYYY_shortTitleXXXXX
-├── src
-│   ├── data
-│   ├── exptools
-│   ├── methods
-│   ├── misc
-│   ├── packages
-│   ├── simulations
-│   └── utilities
-├── tmp
+├── data
+│   ├── raw data
+│   ├── pre-processed data
 ├── tutorials
 ├── visualizations
-│   ├── AbstractsPosters
-│   ├── confPapers
-│   ├── misc
 │   ├── papers
 │   └── presentations
-└── void
-
-38 directories
